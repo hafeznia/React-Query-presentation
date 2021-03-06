@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "React Context",
+      "content": "React components can store a set of observable properties called states. React can decide how to render itself ",
+      "id": 9
+    },
+    {
+      "title": "React Context — Simplified",
+      "content": "React components can store a set of observable properties called states. React can decide how to render itself based on the state values. Sometimes it is important to share the state between multiple components by passing the state down through the component tree. When the component tree is too deep and the application becomes bigger, passing states using props through all these components creates a big mess.",
+      "id": 10
+    },
+    {
+      "title": "React Context — Simplified",
+      "content": "React components can store a set of observable properties called states. React can decide how to render itself based on the state values. Sometimes it is important to share the state between multiple components by passing the state down through the component tree. When the component tree is too deep and the application becomes bigger, passing states using props through all these components creates a big mess.",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
